@@ -20,3 +20,5 @@ for (let operation of input) {
 
 console.log(crt)
 // which letters print out?
+
+
